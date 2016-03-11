@@ -30,3 +30,21 @@ li > a {
   font-weight: 400;
   font-size: 18px;
 }
+section {
+  padding: 60px 80px;
+}
+section > h3 {
+  margin: 0;
+}
+
+#about > p {
+  float: right;
+  width: 60%;
+}
+#about > div {
+  display: inline-block;
+  width: 40%;
+}
+#about > div img {
+  width: 90%
+}
